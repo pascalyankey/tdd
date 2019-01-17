@@ -52,6 +52,8 @@
     <Compile Include="JaarTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RekeningTest.cs" />
+    <Compile Include="RekeningnummerTest.cs" />
+    <Compile Include="StatistiekTest.cs" />
     <Compile Include="VeilingTest.cs" />
     <Compile Include="WoordTest.cs" />
   </ItemGroup>
