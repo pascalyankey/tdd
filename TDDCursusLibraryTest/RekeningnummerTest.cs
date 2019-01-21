@@ -44,7 +44,7 @@ namespace TDDCursusLibraryTest
         }
 
         [TestMethod, ExpectedException(typeof(ArgumentNullException))]
-        public void nummerMetNullIsVerkeerd()
+        public void NummerMetNullIsVerkeerd()
         {
             new Rekeningnummer(null);
         }
