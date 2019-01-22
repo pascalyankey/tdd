@@ -72,6 +72,7 @@
     <Compile Include="LandServiceTest.cs" />
     <Compile Include="OpbrengstDAOStub.cs" />
     <Compile Include="KostDAOStub.cs" />
+    <Compile Include="PersoonTest.cs" />
     <Compile Include="WinstServiceTest.cs" />
     <Compile Include="VeilingTest.cs" />
     <Compile Include="WoordTest.cs" />
